@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background-color: #9ad0ec;
+}
+.qr-code {
+  background-color: white;
+  width: 350px;
+  margin: 50px auto;
+  border-radius: 20px;
+}
+.qr {
+  width: 325px;
+  margin-top: 12.5px;
+  border-radius: 10px;
+}
+.description {
+  font-size: 25px;
+  font-weight: bold;
+  width: 325px;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  clear: both;
+}
+.description-1 {
+  font-size: 20px;
+  color: grey;
+  width: 325px;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  clear: left;
+}
